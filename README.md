@@ -28,6 +28,6 @@ I am just a collage student sooo, if you have a question about this project, dev
 --------------------------------This project was developed from the original project below.---------------------------------------
 
 PROJECT      : Lightweight Arduino GSM Mobile phone.
-https://github.com/AvishekHardin/Lightweight-Arduino-GSM-Mobile
-https://youtu.be/fjtdWQdrKaE
-https://computronicsgeek.wordpress.com/2017/05/10/lightweight-arduino-gsm-mobile-phone/
+* https://github.com/AvishekHardin/Lightweight-Arduino-GSM-Mobile
+* https://youtu.be/fjtdWQdrKaE
+* https://computronicsgeek.wordpress.com/2017/05/10/lightweight-arduino-gsm-mobile-phone/
