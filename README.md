@@ -1,5 +1,4 @@
-# Basit-Arduino-tabanli-cep-telefonu
-Basit Arduino tabanli cep telefonu
+# Simple Arduino based mobile phone
 
 * Basic slide to unlock for safety (like IPhone)
 * Make Calls.
@@ -10,10 +9,6 @@ Basit Arduino tabanli cep telefonu
 * Read contacts in EEPROM
 * Edit contacts in EEPROM
 * Delete contacts in EEPROM
-
-basit bir cep telefonu projesi.
-
-
 
 I just added new features below FROM original project at the bottom:
 
