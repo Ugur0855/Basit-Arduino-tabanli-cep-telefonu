@@ -1,3 +1,5 @@
+[Türkçe](doc/README-tr.md)
+
 # Simple Arduino based mobile phone
 
 * Basic slide to unlock for safety (like IPhone)
