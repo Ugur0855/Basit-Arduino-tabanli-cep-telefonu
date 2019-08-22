@@ -2,10 +2,10 @@
 Basit Arduino tabanli cep telefonu
 
 
-*Çağrı yapabilen, 
-*Gelen çağrıları cevaplayabilen, 
-*SMS servislerini AT komutları ile kullanabilen, 
-*Kalıcı hafızaya(EEPROM) kişi kaydedebilen, veya kalıcı hafızadan silebilen
+* Çağrı yapabilen, 
+* Gelen çağrıları cevaplayabilen, 
+* SMS servislerini AT komutları ile kullanabilen, 
+* Kalıcı hafızaya(EEPROM) kişi kaydedebilen, veya kalıcı hafızadan silebilen
 basit bir cep telefonu projesi.
 
 
