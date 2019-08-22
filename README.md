@@ -2,23 +2,23 @@
 Basit Arduino tabanli cep telefonu
 
 
--Çağrı yapabilen, 
--Gelen çağrıları cevaplayabilen, 
--SMS servislerini AT komutları ile kullanabilen, 
--Kalıcı hafızaya(EEPROM) kişi kaydedebilen, veya kalıcı hafızadan silebilen
+*Çağrı yapabilen, 
+*Gelen çağrıları cevaplayabilen, 
+*SMS servislerini AT komutları ile kullanabilen, 
+*Kalıcı hafızaya(EEPROM) kişi kaydedebilen, veya kalıcı hafızadan silebilen
 basit bir cep telefonu projesi.
 
 
 
 I just added new features below FROM original project at the bottom:
 
--Slide to unlock page before the main page 
--Changing main page picture
--CONTACT MENU
--ADD CONTACT MENU
--EDİT CONTACT MENU
--SAVE CONTACTS İN EEPROM MEMORY
--REMOVE CONTACTS
+*Slide to unlock page before the main page 
+*Changing main page picture
+*CONTACT MENU
+*ADD CONTACT MENU
+*EDİT CONTACT MENU
+*SAVE CONTACTS İN EEPROM MEMORY
+*REMOVE CONTACTS
 
 
 I am just a collage student sooo, if you have a question about this project, developing tips or just a getting info please contact with me: 
