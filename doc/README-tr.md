@@ -1,5 +1,7 @@
 # Basit Arduino tabanlı cep telefonu projesi
 
+[Arduino Mega 2560](https://store.arduino.cc/mega-2560-r3) | [Nextion LCD](https://www.itead.cc/nextion-nx3224t024.html) | [SİM808 Module](https://www.itead.cc/sim808-gsm-gprs-gps-module.html)
+
 * Basit güvenlik için kaydırarak açılan ekran kilidi (IPhone gibi)
 * Çağrı yapabilme
 * Gelen çağrıları cevaplayabilme
