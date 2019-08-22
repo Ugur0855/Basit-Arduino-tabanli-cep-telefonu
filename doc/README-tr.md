@@ -1,38 +1,38 @@
-# Simple Arduino based mobile phone
+# Basit Arduino tabanlı cep telefonu projesi
 
-* Basic slide to unlock for safety (like IPhone)
-* Make Calls.
-* Receive Calls.
-* Send SMS.
-* Receive SMS.
-* Save contacts in non-volatile memory in Arduino(EEPROM)
-* Read contacts in EEPROM
-* Edit contacts in EEPROM
-* Delete contacts in EEPROM
+* Basit güvenlik için kaydırarak açılan ekran kilidi (IPhone gibi)
+* Çağrı yapabilme
+* Gelen çağrıları cevaplayabilme
+* SMS servisleri ile ileti gönderebilme
+* Gelen SMS'leri okuyabilme
+* Save contacts in non-volatile memory in Rehber menüsüne Arduino'daki kalıcı hafızada(EEPROM) yeni kişileri saklayabilme
+* Rehberdeki (EEPROM hafızasındaki) kişileri okuyabilme
+* Rehberdeki (EEPROM hafızasındaki) kişileri değiştirebilme
+* Rehberdeki (EEPROM hafızasındaki) kişileri silebilme
 
-I just added new features below FROM original project at the bottom:
+Aşağıdaki listelediğim yeni özellikler, en alttaki projenin üstüne güncelleme olarak eklenmiştir.
 
-* Slide to unlock page before the main page 
-* Changing main page picture
-* CONTACT MENU
-* ADD CONTACT MENU
-* EDİT CONTACT MENU
-* SAVE CONTACTS İN EEPROM MEMORY
-* REMOVE CONTACTS
+* Ana sayfadan önce kaydırarak kilit açma 
+* Ana sayfanın resmini değişti
+* Rehber menüsü
+* Kişi ekleme Menüsü
+* Kişi Düzenleme Menüsü
+* Kişi Silme Butonu
+  gibi birçok özellikler...
 
 
--------------------------------------Warning!!!---------------------------------------
-This project is still under development and may have a potential error.
+-------------------------------------Uyarı!!!---------------------------------------
+Bu proje hala geliştirilmekta olduğundan birçok olası hatayla karşılaşılabilir.
 -------------------------------------------------------------------------------------------------------------
 
-İf you have a question about this project, developing tips or just a getting info please contact with me: 
+Bu proje hakkında sorunuz varsa, geliştirme ile ilgili tavsiyeleriniz ya da herhangi bir kısmı ile ilgili bilgi almak, soru sormak istiyorsanız lütfen benimle iletişime geçin:
 
 * ugur_k.oglu@hotmail.com
 
 
--This project was developed from the original project below.-
+--Bu proje aşağıdaki orjinal projeden temel alınarak geliştirilmiştir.--
 
-PROJECT      : Lightweight Arduino GSM Mobile phone.
+PROJE      : Lightweight Arduino GSM Mobile phone.
 * https://github.com/AvishekHardin/Lightweight-Arduino-GSM-Mobile
 * https://youtu.be/fjtdWQdrKaE
 * https://computronicsgeek.wordpress.com/2017/05/10/lightweight-arduino-gsm-mobile-phone/
