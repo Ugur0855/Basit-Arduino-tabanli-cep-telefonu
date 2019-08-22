@@ -2,6 +2,8 @@
 
 # Simple Arduino based mobile phone
 
+[Arduino Mega 2560](https://store.arduino.cc/mega-2560-r3) | [Nextion LCD](https://www.itead.cc/nextion-nx3224t024.html) | [SİM808 Module](https://www.itead.cc/sim808-gsm-gprs-gps-module.html)
+
 * Basic slide to unlock for safety (like IPhone)
 * Make Calls.
 * Receive Calls.
