@@ -1,11 +1,16 @@
 # Basit-Arduino-tabanli-cep-telefonu
 Basit Arduino tabanli cep telefonu
 
+* Basic slide to unlock for safety (like IPhone)
+* Make Calls.
+* Receive Calls.
+* Send SMS.
+* Receive SMS.
+* Save contacts in non-volatile memory in Arduino(EEPROM)
+* Read contacts in non-volatile memory in Arduino(EEPROM)
+* Edit contacts in non-volatile memory in Arduino(EEPROM)
+* Delete contacts in non-volatile memory in Arduino(EEPROM).
 
-* Çağrı yapabilen, 
-* Gelen çağrıları cevaplayabilen, 
-* SMS servislerini kullanabilen, 
-* Kalıcı hafızaya(EEPROM) kişi kaydedebilen, veya kalıcı hafızadan silebilen
 basit bir cep telefonu projesi.
 
 
