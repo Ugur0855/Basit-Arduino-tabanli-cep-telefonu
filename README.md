@@ -7,9 +7,9 @@ Basit Arduino tabanli cep telefonu
 * Send SMS.
 * Receive SMS.
 * Save contacts in non-volatile memory in Arduino(EEPROM)
-* Read contacts in non-volatile memory in Arduino(EEPROM)
-* Edit contacts in non-volatile memory in Arduino(EEPROM)
-* Delete contacts in non-volatile memory in Arduino(EEPROM).
+* Read contacts in EEPROM
+* Edit contacts in EEPROM
+* Delete contacts in EEPROM
 
 basit bir cep telefonu projesi.
 
