@@ -175,7 +175,7 @@ void setup(){
  
   Serial.begin(9600);
   Serial2.begin(9600); 
-
+  
   
   while(!Serial){
     ;
@@ -279,10 +279,9 @@ void setup(){
   Serial.println(bellektekiKisiSayisi);
 
   int bellekKisi2=bellektekiKisiSayisi;
-  bellekKisi2=3;
   int i;
   
-  for(i=0; i<bellekKisi2; i++){
+  for(i=0; i<bellektekiKisiSayisi; i++){
     setup2(bellekKisi2);
     bellekKisi2--;
     Serial.println(F("bellekKisi2(setup for un içi):"));
