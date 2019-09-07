@@ -176,13 +176,13 @@ void setup(){
   Serial.begin(9600);
   Serial2.begin(9600); 
 
-  /*
+  
   while(!Serial){
     ;
     }
   power_on();
   delay(3000);
-  */
+  
 
   delay(50);
   Serial.println(F("0-20 ADRESLERİ:"));
