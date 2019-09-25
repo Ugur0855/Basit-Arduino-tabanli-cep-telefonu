@@ -1,7 +1,6 @@
 /*********************************************************************
-PROJECT      : Lightweight Arduino GSM Mobile phone.
-https://youtu.be/fjtdWQdrKaE
-https://computronicsgeek.wordpress.com/2017/05/10/lightweight-arduino-gsm-mobile-phone/
+PROJECT      : Simple-Arduino-Based-Mobile-Phone
+Uğur
 *********************************************************************/
 
 //#include <SoftwareSerial.h>
