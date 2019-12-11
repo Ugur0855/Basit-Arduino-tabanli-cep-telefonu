@@ -15,7 +15,7 @@
 Aşağıdaki listelediğim yeni özellikler, en alttaki projenin üstüne güncelleme olarak eklenmiştir.
 
 * Ana sayfadan önce kaydırarak kilit açma 
-* Ana sayfanın resmini değişti
+* Ana sayfanın arkaplan resmi değişti
 * Rehber menüsü
 * Kişi ekleme Menüsü
 * Kişi Düzenleme Menüsü
@@ -23,7 +23,7 @@ Aşağıdaki listelediğim yeni özellikler, en alttaki projenin üstüne günce
   gibi birçok özellikler...
 
 
--------------------------------------Uyarı!!!---------------------------------------
+-------------------------------------Uyarı!!!---------------------------------------------------------------
 Bu proje hala geliştirilmekta olduğundan birçok olası hatayla karşılaşılabilir.
 -------------------------------------------------------------------------------------------------------------
 
