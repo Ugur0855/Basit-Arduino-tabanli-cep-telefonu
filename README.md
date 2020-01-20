@@ -23,12 +23,6 @@ I just added new features below FROM original project at the bottom:
 * EDİT CONTACT MENU
 * SAVE CONTACTS İN EEPROM MEMORY
 * REMOVE CONTACTS
-
-
--------------------------------------Warning!!!---------------------------------------
-This project is still under development and may have a potential error.
--------------------------------------------------------------------------------------------------------------
-
 İf you have a question about this project, developing tips or just a getting info please contact with me: 
 
 * ugur_k.oglu@hotmail.com
