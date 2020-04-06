@@ -23,10 +23,6 @@ Aşağıdaki listelediğim yeni özellikler, en alttaki projenin üstüne günce
   gibi birçok özellikler...
 
 
--------------------------------------Uyarı!!!--------------------------------------------
-Bu proje hala geliştirilmekte olduğundan birçok olası hatayla karşılaşılabilir.
--------------------------------------------------------------------------------------------------------------
-
 Bu proje hakkında sorunuz varsa, geliştirme ile ilgili tavsiyeleriniz ya da herhangi bir kısmı ile ilgili bilgi almak, soru sormak istiyorsanız lütfen benimle iletişime geçin:
 
 * ugur_k.oglu@hotmail.com
